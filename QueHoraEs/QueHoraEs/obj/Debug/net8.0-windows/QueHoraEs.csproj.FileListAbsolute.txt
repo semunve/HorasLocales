@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\bin\Debug\net8.0-windows\QueHoraEs.exe
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\bin\Debug\net8.0-windows\QueHoraEs.deps.json
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\bin\Debug\net8.0-windows\QueHoraEs.runtimeconfig.json
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\bin\Debug\net8.0-windows\QueHoraEs.dll
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\bin\Debug\net8.0-windows\QueHoraEs.pdb
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\obj\Debug\net8.0-windows\QueHoraEs.Form1.resources
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\obj\Debug\net8.0-windows\QueHoraEs.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\obj\Debug\net8.0-windows\QueHoraEs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\obj\Debug\net8.0-windows\QueHoraEs.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\obj\Debug\net8.0-windows\QueHoraEs.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\obj\Debug\net8.0-windows\QueHoraEs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\obj\Debug\net8.0-windows\QueHoraEs.dll
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\obj\Debug\net8.0-windows\refint\QueHoraEs.dll
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\obj\Debug\net8.0-windows\QueHoraEs.pdb
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\obj\Debug\net8.0-windows\QueHoraEs.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\practicandoC\QueHoraEs\QueHoraEs\obj\Debug\net8.0-windows\ref\QueHoraEs.dll
